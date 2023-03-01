@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// Custom type
 type DLabs int
 
 func standar() {
